@@ -1,8 +1,8 @@
 // Code Plus BasicA
-// 02. Math
+// 0x00. Math
 // Written by Rylah
 // Written Date : 2022.01.12
-// https://minteul.tistory.com/
+// https://minteul.tistory.com/302
 // https://www.acmicpc.net/source/37432221
 
 // 10430. ³ª¸ÓÁö
