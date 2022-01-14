@@ -3,12 +3,14 @@
 // Written by Rylah
 // Written Date : 2022.01.13
 // https://minteul.tistory.com/306
-// 
+// https://www.acmicpc.net/source/37501369
 
 // 17425. 약수의 합
 // sum = i * (n / i);
 // it's diffrent 17427
 // num 1000000 loop 10000
+// too many calculation so use global array
+
 
 #include <bits/stdc++.h>
 using namespace std;
